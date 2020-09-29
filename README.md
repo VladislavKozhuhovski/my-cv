@@ -1,1 +1,1 @@
-[MY-CV](https://VladislavKozhuhovski.io/my-cv/cv)
+[MY-CV](https://VladislavKozhuhovski.io/my-cv/CV)
