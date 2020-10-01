@@ -1,4 +1,7 @@
-# **Vladislav Kozhuhovski**                        ![My photo](https://i.ibb.co/cTdsr8C/image.png)
+# **Vladislav Kozhuhovski**
+
+![My photo](https://i.ibb.co/cTdsr8C/image.png)
+
 ## **Contacts**
 
 - **phone:** +375(29)2016797;
