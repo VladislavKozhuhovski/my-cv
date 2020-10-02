@@ -2,8 +2,10 @@
 
 ![My photo](https://i.ibb.co/cTdsr8C/image.png)
 
-## **Contacts**
+## **Info and contacts**
 
+- **date of birth:** 15.08.2000;
+- **address:** Kurchatova street, 8.
 - **phone:** +375(29)2016797;
 - **email:** vlad_kozhuhoyski@mail.ru;
 - **vk_id:** 252273156;
@@ -21,7 +23,7 @@ Basic knowledge in HTML, CSS, JS, Python, Django, C/C++, Java, SQL, Git, GitHub,
 
 ## **Experience**
 
-I have taken course of system integration in Netcracker's company.
+I have taken course of system integration in Netcracker company. I was a volunteer (technical support) of the second European games.
 
 ## **Education**
 
