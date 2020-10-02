@@ -5,7 +5,7 @@
 ## **Info and contacts**
 
 - **date of birth:** 15.08.2000;
-- **address:** Kurchatova street, 8.
+- **address:** Kurchatova street, 8;
 - **phone:** +375(29)2016797;
 - **email:** vlad_kozhuhoyski@mail.ru;
 - **vk_id:** 252273156;
