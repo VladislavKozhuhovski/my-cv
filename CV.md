@@ -31,6 +31,10 @@ I am studing at BSU at the faculty of Radiophysics and Computer Technologies.
 Graduated from the military department as the commander of the medium-range anti-aircraft missile system.
 Got a driver's license for category "B" and "C".
 
+## **Hobbies**
+
+Watching movies, running, playing table tennis, fishing, driving a car.
+
 ## **English**
 
 Pre-intermediate
