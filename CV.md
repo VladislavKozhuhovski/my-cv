@@ -1,6 +1,6 @@
 # **Vladislav Kozhuhovski**
 
-![My photo]([https://i.ibb.co/cTdsr8C/image.png](https://i.ibb.co/TWG2FhK/IMG-20240713-170714-080.jpg))
+![My photo](https://i.ibb.co/TWG2FhK/IMG-20240713-170714-080.jpg)
 
 ## **Info and contacts**
 
